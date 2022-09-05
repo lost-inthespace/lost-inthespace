@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mohammad or the user @lost-inthespace
+- 👀 I’m interested in Technology 
+- 🌱 I’m currently studying 💻 science @UQU
+- 💙 I love cats 🐈 
+- 🖊 my qoute "still trying to find out"
+- 📫 U can reach me on twitter @mhmmdzmzmi
