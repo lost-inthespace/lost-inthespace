@@ -42,6 +42,6 @@ A Django-based web application designed to simplify property management for owne
 I'm always open to collaborating on projects, answering questions, or discussing opportunities related to software engineering, fintech, or AI applications. Here's how you can reach me:
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Mohammad%20Alzmzmi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alzmzmi)
-- **Email:** [![Email](https://img.shields.io/badge/-s443010592%40st.uqu.edu.sa-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:s443010592@st.uqu.edu.sa)
+- **Email:** [![Email](https://img.shields.io/badge/-mhd.yosof%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:s443010592@st.uqu.edu.sa)
 
 Thank you for visiting my GitHub profile. Looking forward to connecting with you!
