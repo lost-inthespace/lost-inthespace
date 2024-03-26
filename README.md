@@ -22,8 +22,6 @@ Here are some of the technologies and tools I'm proficient in:
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 ## 🌟 Achievements
 - Spearheaded a major tech event at my university, significantly boosting student engagement and contributing to a stronger tech community.
