@@ -38,10 +38,17 @@ A Django-based web application designed to simplify property management for owne
 - Economics and finance, with active participation in stock investment.
 - Fintech and blockchain technology, exploring their potentials and applications.
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=radical)
+
+
 ## 🤝 Connect with Me
 I'm always open to collaborating on projects, answering questions, or discussing opportunities related to software engineering, fintech, or AI applications. Here's how you can reach me:
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Mohammad%20Alzmzmi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alzmzmi)
-- **Email:** [![Email](https://img.shields.io/badge/-mhd.yosof%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:s443010592@st.uqu.edu.sa)
+- **Email:** [![Email](https://img.shields.io/badge/-mhd.yosof%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:mhd.yosof@gmail.com)
 
 Thank you for visiting my GitHub profile. Looking forward to connecting with you!
