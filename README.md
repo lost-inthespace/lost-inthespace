@@ -1,4 +1,4 @@
-# Hello, I'm Mohammad Yusof AlZmzmi! 👋
+# Hello, I'm Mohammad AlZmzmi! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourGitHubUsername&color=green)
 ![GitHub Followers](https://img.shields.io/github/followers/yourGitHubUsername?label=Follow&style=social)
