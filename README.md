@@ -22,14 +22,6 @@ Here are some of the technologies and tools I'm proficient in:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 🌟 Achievements
-- Spearheaded a major tech event at my university, significantly boosting student engagement and contributing to a stronger tech community.
-- Created a property management web application, demonstrating my capabilities in full-stack development.
-- Achieved Full Stack Python Certification from Satr in 2022.
-
-## 💻 Projects
-### Building Owner Manager (Discontinued)
-A Django-based web application designed to simplify property management for owners. This project was a practical application of my Python and Django skills, demonstrating my approach to solving real-world problems.
 
 ## 💡 Interests
 - Economics and finance, with active participation in stock investment.
