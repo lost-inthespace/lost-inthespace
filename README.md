@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! Here, you'll find projects I've worked on, my achievements, and how you can connect with me. Let's dive in!
 
 ## 📖 About Me
-I'm a junior Computer Engineering student at Uqu, Makkah, Saudi Arabia, passionate about technology and its applications. My journey spans from front-end to back-end development, with a keen interest in software engineering, fintech, and AI. As a public relations member of the computer club at my university, I actively contribute to fostering a vibrant tech community.
+I'm a Senior Computer Engineering student at UQU, Makkah, Saudi Arabia, passionate about technology and its applications. My journey spans from front-end to back-end development, with a keen interest in software engineering, fintech, and AI.
 
 ## 🛠 Skills
 Here are some of the technologies and tools I'm proficient in:
